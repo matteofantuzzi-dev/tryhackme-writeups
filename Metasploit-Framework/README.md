@@ -31,3 +31,16 @@ set LHOST [Your_IP]
 
 # 3. Lancio
 exploit
+
+
+---
+
+## ⚠️ Disclaimer (Scopo Educativo)
+
+Tutto il contenuto di questo repository è destinato esclusivamente a **scopi educativi e di ricerca sulla sicurezza informatica**. 
+
+- L'autore non si assume alcuna responsabilità per l'uso improprio di queste informazioni.
+- Non utilizzare mai questi strumenti o tecniche su reti, sistemi o dispositivi senza l'autorizzazione esplicita dei proprietari.
+- L'accesso non autorizzato a sistemi informatici è un reato perseguibile legalmente.
+
+**Ricorda: L'obiettivo è imparare a difendere i sistemi capendo come vengono attaccati.**
