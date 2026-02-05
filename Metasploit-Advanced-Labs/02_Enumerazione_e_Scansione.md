@@ -15,3 +15,4 @@ Analisi dei Flag:
 -Pn: Assume che l'host sia "vivo". Impedisce a Nmap di rinunciare se il target blocca i pacchetti ICMP (Ping).
 
 -p 1-1000: Scansiona solo le porte "well-known". In Metasploit, porte comuni come 445 (SMB) o 80 (HTTP) sono spesso i primi bersagli.
+
